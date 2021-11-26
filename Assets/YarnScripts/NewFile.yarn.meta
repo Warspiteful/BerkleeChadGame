@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 7561b8680e1bff14e863ce007547f755
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: 
+  stringIDs:
+  - NewFile-Intro-0
+  - NewFile-Intro-1
+  - NewFile-Intro-2
+  - NewFile-Intro-3
+  - NewFile-Keys-4
+  - NewFile-Monster-5
+  - NewFile-Monster-6
+  - NewFile-Monster-7
+  - NewFile-DnD-8
+  - NewFile-DnD-9
+  - NewFile-DnD-10
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {instanceID: 0}
+  localizations: []
